@@ -8,14 +8,14 @@
 ## Publication List
 * Shin-Ting Wu, Yi-Hua Chen, and Po-Chun Huang.
  “Blockchain-based Paper Submission System for Author Nonrepudiation
-and Plagiarism Checking.” International Conference on Advanced Technology Innovation (ICATI), Japan, 2019.
-    Exploit the advantages of blockchain to prevent plagiarism on paper submission system.
+and Plagiarism Checking.” International Conference on Advanced Technology Innovation (ICATI), Japan, 2019.  
+>    Exploit the advantages of blockchain to prevent plagiarism on paper submission system.
 * Yi-Han Lien, Shin-Ting Wu, Yun-Shan Hsieh, and Po-Chun Huang. 
 “Enabling Efficient Random Data Insertion and Deletion on File Systems.” International Conference
 on Innovation, Communication and Engineering (ICICE), Hangzhou, Zhejiang, P.R.
-China, 2018.
-    Propose co-management strategies of the data and storage space of files to enable random insert/delete operations on block-based file systems.
+China, 2018.  
+ >   Propose co-management strategies of the data and storage space of files to enable random insert/delete operations on block-based file systems.
 * Yi-Han Lien, Yi-Hua Chen, Yun-Shen Hsieh, Shin-Ting Wu, Yun-Fei Liu, and PoChun Huang.
  “Privacy-preserving Data Exchange Protocols for Public Data Lakes.” 
- The 22nd Mobile Computing Workshop, Kaohsiung, Taiwan, 2017.
-    Propose a privacy-preserving data exchanging protocol on data lakes for big data analytics.
+ The 22nd Mobile Computing Workshop, Kaohsiung, Taiwan, 2017.  
+>    Propose a privacy-preserving data exchanging protocol on data lakes for big data analytics.
