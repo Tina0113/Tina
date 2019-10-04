@@ -12,7 +12,7 @@
 Email: shinting135@gmail.com
 
 <h2 id="3">Experience</h2>
-### Education
+<h1 id="31">Education</h2>
 >* Jul. 2019 - Aug. 2019, University of Cincinnati
 >* Sep. 2018 - now, Graduate student, Eletronic Engineering, National Taipei University of Technology  
 >* Sep. 2014 - Jun. 2018, Undergraduate student, Departmant of Computer Science & Engineering, Yuan Ze University  
