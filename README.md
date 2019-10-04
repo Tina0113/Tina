@@ -6,7 +6,7 @@
 * [Publication](##Publication)
 
 <h2 id="1">About</h2>
-> I am currently a second-year M.S. student in electronic engineering at National Taipei University of Technology. Previously, I completed my B.S. studies in the Department of Computer Science, Yuan Ze University.
+>  I am currently a second-year M.S. student in electronic engineering at National Taipei University of Technology. Previously, I completed my B.S. studies in the Department of Computer Science, Yuan Ze University.
 
 ## Contact
 > Email: shinting135@gmail.com
