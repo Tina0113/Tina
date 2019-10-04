@@ -1,23 +1,26 @@
 # Shin-Ting Wu (Tina.wu)
 ## Content 
 * [About](#1)
-* [Contact](##Contact)
-* [Experience](##Experience)
-* [Publication](##Publication)
+* [Contact](#2)
+* [Experience](#3)
+* [Publication](#4)
 
 <h2 id="1">About</h2>
->  I am currently a second-year M.S. student in electronic engineering at National Taipei University of Technology. Previously, I completed my B.S. studies in the Department of Computer Science, Yuan Ze University.
+ I am currently a second-year M.S. student in electronic engineering at National Taipei University of Technology. Previously, I completed my B.S. studies in the Department of Computer Science, Yuan Ze University.
 
-## Contact
-> Email: shinting135@gmail.com
+<h2 id="2">Contact</h2>
+Email: shinting135@gmail.com
 
-## Experience
+<h2 id="3">Experience</h2>
+### Education
 >* Jul. 2019 - Aug. 2019, University of Cincinnati
 >* Sep. 2018 - now, Graduate student, Eletronic Engineering, National Taipei University of Technology  
->* Jan. 2017 - Jan 2018, Intern at department of system administrator, ArdenTec Company
 >* Sep. 2014 - Jun. 2018, Undergraduate student, Departmant of Computer Science & Engineering, Yuan Ze University  
 >* Sep. 2011 - Jan. 2014 , Mathmatically-gifted class, National Neili Senior High School 
-## Publication
+### Work
+>* Jan. 2017 - Jan 2018, Intern at department of system administrator, ArdenTec Company
+
+<h2 id="4">Publication</h2>
 >* Shin-Ting Wu, Yi-Hua Chen, and Po-Chun Huang.
  “Blockchain-based Paper Submission System for Author Nonrepudiation
 and Plagiarism Checking.” International Conference on Advanced Technology Innovation (ICATI), Japan, 2019.  
