@@ -1,11 +1,11 @@
 # Shin-Ting Wu (Tina.wu)
 ## Content 
-* [About](##About)
+* [About](#1)
 * [Contact](##Contact)
 * [Experience](##Experience)
 * [Publication](##Publication)
 
-## About
+<h2 id="1">About</h2>
 > I am currently a second-year M.S. student in electronic engineering at National Taipei University of Technology. Previously, I completed my B.S. studies in the Department of Computer Science, Yuan Ze University.
 
 ## Contact
